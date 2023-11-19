@@ -5,9 +5,9 @@
 ### Data
 The dataset contains three (3) columns, namely;
 
-Member_id: A unique identifier used for customers
-Date: Date of purchase
-item description: name of itempurchased
+- Member_id: A unique identifier used for customers
+- Date: Date of purchase
+- item description: name of itempurchased
 
 ### Algorithm used : Apriori algorithm
 

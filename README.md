@@ -15,8 +15,8 @@ item description: name of itempurchased
 
 From the results:
 
-other vegetables ---- Frankfurter
-soda ---- sausage
-yogurt ---- sausage
+- other vegetables ---- Frankfurter
+- soda ---- sausage
+- yogurt ---- sausage
 
 have strong relationships and hence should be placed close to each other
